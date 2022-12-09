@@ -14,7 +14,7 @@ int main(){
     else{ c++;
     }
     }
-    cout << "#Even numbers = " << b-15 << endl;
+    cout << "#Even numbers = " << b-1 << endl;
 
     cout << "#Odd numbers = " << c;
     return 0;
